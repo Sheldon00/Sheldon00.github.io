@@ -116,7 +116,7 @@ ul li, ol li {
   margin-bottom: 15px;
 }
 
-.section-title:before {
+/*.section-title:before {
   position: absolute;
   content: '';
   left: 15px;
@@ -124,9 +124,9 @@ ul li, ol li {
   width: 48px;
   height: 1px;
   background-color: #E91E63;
-}
+}*/
 
-.section-title:after {
+/*.section-title:after {
   position: absolute;
   content: '';
   left: 0px;
@@ -134,7 +134,7 @@ ul li, ol li {
   width: 48px;
   height: 1px;
   background-color: #E91E63;
-}
+}*/
 
 .section-title:before, .section-title:after {
   left: 50%;
